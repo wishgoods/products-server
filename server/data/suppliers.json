@@ -1,0 +1,6 @@
+{
+  "suppliers": [
+    {"code": "A112FR", "name": "Lactalis France"},
+    {"code": "A135CA", "name": "Maple Canada"}
+  ]
+}
